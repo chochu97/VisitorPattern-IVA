@@ -1,0 +1,7 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\VisitorPatron\VisitorIVA\bin\Debug\VisitorIVA.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\VisitorPatron\VisitorIVA\bin\Debug\VisitorIVA.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\VisitorPatron\VisitorIVA\bin\Debug\VisitorIVA.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\VisitorPatron\VisitorIVA\obj\Debug\VisitorIVA.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\VisitorPatron\VisitorIVA\obj\Debug\VisitorIVA.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\VisitorPatron\VisitorIVA\obj\Debug\VisitorIVA.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\VisitorPatron\VisitorIVA\obj\Debug\VisitorIVA.pdb
